@@ -1,0 +1,59 @@
+naics,naics_title,innovation
+2111,Oil and Gas Extraction,1
+3112,Grain and Oilseed Milling,1
+3113,Sugar and Confectionery Product Manufacturing,1
+3114,Fruit and Vegetable Preserving and Specialty Food Manufacturing,1
+3115,Dairy Product Manufacturing,1
+3118,Bakeries and Tortilla Manufacturing,1
+3119,Other Food Manufacturing,1
+3151,Apparel Knitting Mills,1
+3152,Cut and Sew Apparel Manufacturing,1
+3159,Apparel Accessories and Other Apparel Manufacturing,1
+3241,Petroleum and Coal Products Manufacturing,1
+3254,Pharmaceutical and Medicine Manufacturing,1
+3259,Other Chemical Product and Preparation Manufacturing,1
+3271,Clay Product and Refractory Manufacturing,1
+3279,Other Nonmetallic Mineral Product Manufacturing,1
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,1
+3313,Alumina and Aluminum Production and Processing,1
+3315,Foundries,1
+3332,Industrial Machinery Manufacturing,1
+3333,Commercial and Service Industry Machinery Manufacturing,1
+3339,Other General Purpose Machinery Manufacturing,1
+3341,Computer and Peripheral Equipment Manufacturing,1
+3342,Communications Equipment Manufacturing,1
+3343,Audio and Video Equipment Manufacturing,1
+3344,Semiconductor and Other Electronic Component Manufacturing,1
+3345,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",1
+3346,Manufacturing and Reproducing Magnetic and Optical Media,1
+3351,Electric Lighting Equipment Manufacturing,1
+3353,Electrical Equipment Manufacturing,1
+3359,Other Electrical Equipment and Component Manufacturing,1
+3363,Motor Vehicle Parts Manufacturing,1
+3364,Aerospace Product and Parts Manufacturing,1
+3366,Ship and Boat Building,1
+3391,Medical Equipment and Supplies Manufacturing,1
+3399,Other Miscellaneous Manufacturing,1
+4539,Other Miscellaneous Store Retailers,1
+4541,Electronic Shopping and Mail-Order Houses,1
+5111,"Newspaper, Periodical, Book, and Directory Publishers",1
+5112,Software Publishers,1
+5121,Motion Picture and Video Industries,1
+5122,Sound Recording Industries,1
+5151,Radio and Television Broadcasting,1
+5152,Cable and Other Subscription Programming,1
+5173,Wired and Wireless Telecommunications Carriers,1
+5174,Satellite Telecommunications,1
+5179,Other Telecommunications,1
+5182,"Data Processing, Hosting, and Related Services",1
+5191,Other Information Services,1
+5413,"Architectural, Engineering, and Related Services",1
+5414,Specialized Design Services,1
+5415,Computer Systems Design and Related Services,1
+5416,"Management, Scientific, and Technical Consulting Services",1
+5417,Scientific Research and Development Services,1
+5418,"Advertising, Public Relations, and Related Services",1
+6215,Medical and Diagnostic Laboratories,1
+7111,Performing Arts Companies,1
+7115,"Independent Artists, Writers, and Performers",1
+7121,"Museums, Historical Sites, and Similar Institutions",1
